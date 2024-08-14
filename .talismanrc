@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: producer/src/main/resources/application.properties
+  checksum: 327acb343e0fd20cd8404d5436927b36df0258b2046d3b5438eea5a12fa2d6c2
+- filename: consumer/src/main/resources/application.properties
+  checksum: 032de3651f3abfa488c8497ef7169a9ab5ac50d5795b600567c90d4ff504751a
+- filename: mvnw
+  checksum: 5ea54ac67a83a3113b2c18b63be2c7cd36d20a6a016b455f1a73f5722a9ed6d1
+version: ""
